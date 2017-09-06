@@ -1,0 +1,7 @@
+[package]
+name = "qkx"
+version = "0.1.0"
+authors = ["Keiji Yoshida <kjmrknsn@gmail.com>"]
+
+[dependencies]
+getopts = "0.2.15"
